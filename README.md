@@ -1,5 +1,1 @@
-# Git-Out
-this is where I learn to use git-hub for real. 
-Making changes to the branch in order to experiment with compatability and usability. THat way I can make a really fucking sick app. Now go get on it motherfucker!
-
-
+This is the readme file. I created it using Git. I am learning to use this software slowly because I haven't gotten used to it yet. I am mildly excited to learn. WHat is really driving me to do this is, money!!!! i really want to have a lot of that stuff so that I can live a good life with my family. We've been pretty stressed for several years now and it fucking sucks. So hopefully this will allow me to actually be useful to them for a change. 
